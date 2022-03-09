@@ -1,5 +1,5 @@
-# imoderfros
-i'm one degree removed from stupid   
+# iboderfros
+i'll be one degree removed from stupid   
 ### logger
 simple and *single* log line generator   
 receives a *sole* argument   
